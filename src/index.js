@@ -25,7 +25,7 @@ const AppWrapper = () => {
   )
 }
 
-export const server = "http://localhost:4000";
+export const server = "https://backend-todo-app-livid.vercel.app";
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
