@@ -25,8 +25,7 @@ const AppWrapper = () => {
   )
 }
 
-export const server = "https://backend-todo-app-tawny.vercel.app";
-// export const server = "http://localhost:4000";
+export const server = "https://todo-app-0zmz.onrender.com";
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
