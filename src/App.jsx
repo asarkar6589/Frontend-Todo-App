@@ -9,7 +9,7 @@ import { Toaster } from "react-hot-toast";
 import { useContext, useEffect } from "react";
 import axios from "axios";
 import { context, server } from "./index";
-axios.defaults.withCredentials = true;
+// axios.defaults.withCredentials = true;
 
 function App() {
   // We will call the my profile function in the starting of the page.
